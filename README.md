@@ -1,6 +1,6 @@
 # PWD-DTI-Batam-DatSci-Module-2-Capstone-Project
 
-# ✨✨✨ Capstone_Project_1_Purwadhika ✨✨✨
+# ✨✨✨ Capstone_Project_2_Purwadhika ✨✨✨
 
 # TransJakarta Data Analysis
 
