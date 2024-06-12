@@ -6,8 +6,8 @@
 
 
 ## Presentation (visual overview)
-TransJakarta Tableau Story Link: https://public.tableau.com/app/profile/rizqi.ahmad.kurniawan/viz/Module2DTI-DSCapstoneProjectTransJakartaDB/TransJakartaStoryTableau?publish=yes   
-
+- TransJakarta Presentation Link: https://drive.google.com/file/d/1xIyRf6rX6WcbRGZnNk8EUgTRkOIj_vfD/view?usp=drive_link  
+- TransJakarta Tableau Story Link: https://public.tableau.com/app/profile/rizqi.ahmad.kurniawan/viz/Module2DTI-DSCapstoneProjectTransJakartaDB/TransJakartaStoryTableau?publish=yes   
 
 ## Quick Overview
 - Capstone project for learning module 2 of Purwadhika DTI Data Science Program. 
